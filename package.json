@@ -1,0 +1,16 @@
+{
+  "name": "xlsjsc",
+  "version": "1.0.0",
+  "description": "Utility to convert an XLS worksheet to CSV",
+  "main": "index.js",
+  "author": "Atif Aziz <code@raboof.com>",
+  "license": "ISC",
+  "dependencies": {
+    "xlsjs": "0.7.6"
+  },
+  "keywords": [
+    "xls",
+    "excel",
+    "csv"
+  ]
+}
